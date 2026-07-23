@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GravitySerenity" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#2B1B6B</item>
+    </style>
+</resources>
